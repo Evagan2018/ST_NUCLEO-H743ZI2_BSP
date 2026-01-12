@@ -40,8 +40,6 @@ PACK_DIRS="
 # Default: empty
 #
 PACK_BASE_FILES="
-  LICENSE-Apache-2.0
-  LICENSE-BSD-3-Clause
   LICENSES
 "
 
