@@ -38,7 +38,7 @@ Run this script locally with:
 
       ST_NUCLEO-H743ZI2_BSP $ ./gen_pack.sh
 
-### GitHub Actions
+## GitHub Actions
 
 The repository uses GitHub Actions to generate the pack and build examples:
 
