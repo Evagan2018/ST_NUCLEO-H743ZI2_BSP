@@ -9,7 +9,7 @@
   <licenseSets>
     <licenseSet id="all" default="true" gating="true">
       <license title="Apache-2.0 License for CMSIS add-ons"                    name="LICENSE-Apache-2.0"         spdx="Apache-2.0"/>
-      <license title="LICENSE-BSD-3-Clause for STMicroelectronics STM32 HAL"   name="LICENSE-BSD-3-Clause"       spdx="BSD-3-Clause"/>
+      <license title="LICENSE-BSD-3-Clause License for STMicroelectronics STM32 HAL"   name="LICENSE-BSD-3-Clause"       spdx="BSD-3-Clause"/>
     </licenseSet>
   </licenseSets>
 
